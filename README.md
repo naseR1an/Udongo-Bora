@@ -26,6 +26,15 @@ Together, these features drive smarter, cleaner, and more inclusive agricultural
 
 ✅ Chatbot Interface – Farming Q&A powered by LangChain and LLMs
 
+## 🤖 Future Extensions 
+This project has the potential for future extensions that can enhance the user experience and make the app more accessible to a wider audience. Some possible extensions are:
+
+✅**Speech input:** Adding speech input can make it easier for farmers who are not comfortable typing on a keyboard. This extension can be achieved using libraries like SpeechRecognition and PyAudio.
+✅**Multi-lingual support:** The app can be extended to support multiple languages, making it accessible to farmers who speak different languages. This can be achieved using language translation APIs like Google Translate or by training the model on multilingual data.
+✅**Image recognition:** Adding image recognition can make it easier for farmers to identify pests and diseases in their crops. This extension can be achieved using libraries like OpenCV and TensorFlow.
+✅**Soil analysis:** Adding soil analysis can help farmers understand the nutrient composition of their soil and provide recommendations on fertilizers and other treatments. This extension can be achieved using soil testing kits or by partnering with soil testing labs.
+✅**Weather forecasting:** Adding weather forecasting can help farmers plan their crop cultivation and irrigation activities. This extension can be achieved using weather APIs like OpenWeatherMap or by training the model on weather data.
+
 ## 📁 Folder Structure
 bash
 Udongo-Bora/
