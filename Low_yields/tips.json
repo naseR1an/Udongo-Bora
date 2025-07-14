@@ -1,0 +1,104 @@
+{
+  "soil_fertility": {
+    "low": {
+      "issue": "Nutrient deficiency likely impacting growth.",
+      "tip": "Apply organic compost and conduct a soil test."
+    }
+  },
+  "water_access": {
+    "moderate": {
+      "issue": "Intermittent watering may reduce yields.",
+      "tip": "Consider using drip irrigation or rainwater harvesting."
+    }
+  },
+  "pest_control": {
+    "none": {
+      "issue": "Uncontrolled pests can cause major crop losses.",
+      "tip": "Use neem oil sprays and biological pest traps."
+    }
+  },
+  "crop_rotation": {
+    "no": {
+      "issue": "Continuous planting depletes soil and increases disease risk.",
+      "tip": "Rotate crops seasonally with legumes to restore soil health."
+    }
+  },
+  "seed_quality": {
+    "unknown": {
+      "issue": "Poor seed quality may lead to low germination rates.",
+      "tip": "Source seeds from certified organic suppliers."
+    }
+  },
+  "climate_conditions": {
+    "unfavorable": {
+      "issue": "Extreme weather can stress plants and reduce yields.",
+      "tip": "Implement shade nets or windbreaks to protect crops."
+    }
+  },
+  "harvesting_techniques": {
+    "manual": {
+      "issue": "Labor-intensive methods may lead to inefficiencies.",
+      "tip": "Train workers on efficient harvesting techniques."
+    }
+  },
+  "market_access": {
+    "limited": {
+      "issue": "Poor market access can lead to unsold produce.",
+      "tip": "Explore local farmers' markets or cooperatives for better sales."
+    }
+  },
+  "post_harvest_handling": {
+    "poor": {
+      "issue": "Inadequate handling can lead to spoilage.",
+      "tip": "Implement proper storage techniques and cooling systems."
+    }
+  },
+  "financial_support": {
+    "none": {
+      "issue": "Lack of funding limits investment in improvements.",
+      "tip": "Seek microloans or grants from agricultural organizations."
+    }
+  },
+  "education_and_training": {
+    "lacking": {
+      "issue": "Insufficient knowledge may hinder best practices.",
+      "tip": "Attend workshops or online courses on sustainable farming."
+    }
+  },
+  "community_support": {
+    "weak": {
+      "issue": "Limited community engagement reduces resource sharing.",
+      "tip": "Join local farming groups to share knowledge and resources."
+    }
+  },
+  "technology_use": {
+    "minimal": {
+      "issue": "Low adoption of technology can limit efficiency.",
+      "tip": "Explore mobile apps for farm management and weather updates."
+    }
+  },
+  "biodiversity": {
+    "low": {
+      "issue": "Lack of biodiversity can increase pest and disease risks.",
+      "tip": "Incorporate diverse crops and native plants into your farm."
+    }
+  },
+  "sustainability_practices": {
+    "absent": {
+      "issue": "Unsustainable practices can degrade land over time.",
+      "tip": "Adopt permaculture principles and regenerative agriculture techniques."
+    }
+  },
+  "government_support": {
+    "minimal": {
+      "issue": "Limited government assistance may hinder growth.",
+      "tip": "Engage with local agricultural departments for available resources."
+    }
+  },
+  "infrastructure": {
+    "poor": {
+      "issue": "Inadequate infrastructure can disrupt operations.",
+      "tip": "Advocate for better rural infrastructure development."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "kenya": {
+    "crops": {
+      "maize": [
+        "Register your farm with Organic Certification Kenya (OCK).",
+        "Maintain records of input use and crop rotations for 12 months.",
+        "Undergo field inspection by an accredited officer.",
+        "Receive organic certification valid for two years."
+      ],
+      "tomatoes": [
+        "Apply to KEBS for organic horticulture compliance.",
+        "Use approved organic pest management protocols.",
+        "Participate in annual sustainability audit."
+      ]
+    },
+    "generic_steps": [
+      "Contact regional certification body for guidelines.",
+      "Transition farm to fully organic inputs for 12+ months.",
+      "Document field practices and undergo verification."
+    ]
+  }
+}
