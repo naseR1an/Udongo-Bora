@@ -54,4 +54,4 @@ Udongo-Bora/
 ├── README.md
 
 ## 🤝 Contributors
-Created by naseR1an Contribution welcome via forks and pull requests!
+Contribution welcome via forks and pull requests!
